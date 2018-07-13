@@ -23,12 +23,17 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_home_black_24dp.xml" />
+                                                <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/image/ic_edit_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="outputName" value="ic_edit_name" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -64,7 +69,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/editor/ic_border_color_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/editor/ic_insert_comment_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -74,12 +79,12 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="height" value="26" />
-                            <entry key="opacityPercent" value="96" />
-                            <entry key="outputName" value="ic_border_color_black_24dp" />
+                            <entry key="height" value="25" />
+                            <entry key="opacityPercent" value="92" />
+                            <entry key="outputName" value="ic_complain_black_24dp" />
                             <entry key="overrideSize" value="true" />
                             <entry key="sourceFile" value="C:\Users\chain" />
-                            <entry key="width" value="26" />
+                            <entry key="width" value="25" />
                           </map>
                         </option>
                       </PersistentState>
